@@ -1,0 +1,18 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header.jumbotron {
+  background: url("aljihad.jpg") no-repeat center center;
+  background-size: cover;
+  color: #0189f1;
+}
+
+.section-title {
+  margin-bottom: 40px;
+}
+
+footer {
+  background-color: #2c3e50;
+}
